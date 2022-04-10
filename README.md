@@ -1,2 +1,3 @@
 # expensetracker
-this is a sample project for expense tracker
+
+Check document [read me ](https://duckduckgo.com) for all details.
