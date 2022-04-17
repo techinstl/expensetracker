@@ -12,19 +12,27 @@
 ## Brain storming Miro link
 https://miro.com/app/board/uXjVOASlymM=/
 
+## Tech Stack
+ - Authentication: Firebase Auth 
+ - Backend server (Python, Flask) Serena's Group
+ - Frontend (React.js, Next.js) Mark Fang
+ - Designing: Figma
+ - Collaboration: Miro, and Discord
+ - Hosting: Vercel for Frontend, AWS or Heroku as Backend 
+
 
 ## Requirements to be implemented
 
 
 | No | Requirement | Raised by  |
 | ------ | ------ | -----: |
-|1 | Support web browser notification which has different color and things | Henry|
-|2|Support all history of purchases|Andy|
-|3|Support good UI for both mobile and computer devices|Andy|
-|4| Able to set barget for certain time frames| Andy|
-|5| chart of amount of money through time| Steven| 
-|6| Manage reoccuring subscription to things| Serena|
-|7| Support multiple  currencies | Serena|
+|1 | Support web browser notification which has different color and things (Frontend & Backend) | Henry|
+|2|Support all history of purchases (Backend) |Andy + Mark (Frontend)|
+|3|Support good UI for both mobile and computer devices (Frontend) |Mark|
+|4| Able to set budget for certain time frames (Backend) | Serena + Henry (Frontend)|
+|5| chart of amount of money through time (Frontend Chart.js) |Dante| 
+|6| Manage reoccuring subscription to things |Serena|
+|7| Support multiple  currencies (Backend) |Andy|
 
 ## Details of each requirements
 
