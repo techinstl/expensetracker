@@ -32,13 +32,13 @@ https://miro.com/app/board/uXjVOASlymM=/
 **edit by Henry**
 
 ### 2. Support all history of purchase
-**edit by Andy**
+**A seperate tab/page for a complete list of all purchases, sorted by date**
 
-### 3. upport good UI for both mobile and computer devices
-**edit by Andy**
+### 3. Support good UI for both mobile and computer devices
+**All UI should look clean for all devices, no bugs/glitches/weird formatting**
 
-### 4. Able to set barget for certain time frames
-**edit by Andy**
+### 4. Able to set buget for certain time frames
+**A counter somewhere on the page that shows (current spent)/(budget). When budget reached or surpassed a notification pops up in the middle of the screen warning the user of going over budget**
 
 #### 5. chart of amount of money through time
 **edit by Steven**
