@@ -64,11 +64,19 @@ There is also browser notifs requests, which is also required for them to show u
 #### 5. chart of amount of money through time
 **edit by Steven**
 
-#### 6. Manage reoccuring subscription to things
-**edit by Serena**
+### 6. Manage reoccuring subscription to things
+- When adding expense, have option to set a schedule for it (every Sunday, every month)
+- Automatically add it every month
+- Add a name to it (Netflix, Hulu, internet bill)
+- Notification when it is due soon
+- Connect to database
 
 ### 7. Support multiple  currencies
-**edit by Serena**
+- Set base currency
+- When adding expense, have an option to set currency and convert to base
+- Connect to API to convert the currencies
+- Display in table of all transactions what currency is
+- In database, store the value in the base currency but have option to see how much it costed in other currency (not sure if this is good)
 
 
 ## Design noted here
