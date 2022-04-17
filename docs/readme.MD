@@ -29,7 +29,14 @@ https://miro.com/app/board/uXjVOASlymM=/
 ## Details of each requirements
 
 ### 1. Support web browser notification which has different color and thing
-**edit by Henry**
+This allows us to show notifs, and we can change colour by using css
+https://www.w3schools.com/howto/howto_js_popup.asp nice artical about it
+
+##How we are going to implement
+
+when a user chooses to get notified, we store a binary number in a data base, then we run scripts on the database for the things that have been requested. For example, see if the bills have been payed each month, on the 20th, we would check the database to see if the user has done it, and if not, we send a notif.
+
+There is also browser notifs requests, which is also required for them to show up on the desktop
 
 ### 2. Support all history of purchase
 **A seperate tab/page for a complete list of all purchases, sorted by date**
