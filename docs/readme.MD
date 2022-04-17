@@ -26,13 +26,19 @@ https://miro.com/app/board/uXjVOASlymM=/
 
 | No | Requirement | Raised by  |
 | ------ | ------ | -----: |
-|1 | Support web browser notification which has different color and things (Frontend & Backend) | Henry|
+|1| Support web browser notification which has different color and things (Frontend & Backend) | Henry|
 |2|Support all history of purchases (Backend) |Andy + Mark (Frontend)|
-|3|Support good UI for both mobile and computer devices (Frontend) |Mark|
+|3|Support good UI for both mobile and computer devices (Frontend) |Mark + Andy|
 |4| Able to set budget for certain time frames (Backend) | Serena + Henry (Frontend)|
-|5| chart of amount of money through time (Frontend Chart.js) |Dante| 
+|5| chart of amount of money through time (Frontend Chart.js) |Dante + Bryan| 
 |6| Manage reoccuring subscription to things |Serena|
+|7| MAKING THE API |Serena + with her group|
 |7| Support multiple  currencies (Backend) |Andy|
+|8| Website Structure and Styling (Homepage) |Alexander + Mark + Dante + Bryan|
+|9| Sign/up Page |Henry|
+|10| About Page |Alexander|
+|11| Dashboard (Linking with the API) |Mark + Alexander|
+
 
 ## Details of each requirements
 
